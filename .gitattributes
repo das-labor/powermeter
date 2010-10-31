@@ -3,4 +3,5 @@
 /adc_driver.c -text
 /adc_driver.h -text
 /adc_driver_asm.S90 -text
+/avr_compiler.h -text
 /main.c -text
