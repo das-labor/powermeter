@@ -1,7 +1,7 @@
 * text=auto !eol
-/Makefile -text
-/adc_driver.c -text
-/adc_driver.h -text
-/adc_driver_asm.S90 -text
-/avr_compiler.h -text
-/main.c -text
+test_xplain/Makefile -text
+test_xplain/adc_driver.c -text
+test_xplain/adc_driver.h -text
+test_xplain/adc_driver_asm.S90 -text
+test_xplain/avr_compiler.h -text
+test_xplain/main.c -text
