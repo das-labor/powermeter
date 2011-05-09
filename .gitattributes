@@ -1,4 +1,6 @@
 * text=auto !eol
+/Makefile -text
+/main.c -text
 test_xplain/Makefile -text
 test_xplain/adc_driver.c -text
 test_xplain/adc_driver.h -text
