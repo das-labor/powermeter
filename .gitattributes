@@ -4,6 +4,7 @@
 /adc_driver.h -text
 /avr_compiler.h -text
 /can_handler.c -text
+/can_handler.h -text
 /config.h -text
 /main.c -text
 test_xplain/Makefile -text
