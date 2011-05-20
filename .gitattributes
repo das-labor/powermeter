@@ -1,5 +1,10 @@
 * text=auto !eol
 /Makefile -text
+/adc_driver.c -text
+/adc_driver.h -text
+/avr_compiler.h -text
+/can_handler.c -text
+/config.h -text
 /main.c -text
 test_xplain/Makefile -text
 test_xplain/adc_driver.c -text
